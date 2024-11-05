@@ -1,7 +1,7 @@
 import cv2
 import matplotlib.pyplot as plt
 
-imagePath = r'C:\Users\Dhruvatej\OneDrive\Desktop\Opencv\Facedetection\face.jpg'
+imagePath = r'D:\Opencv\Facedetection\face.jpg'
 img = cv2.imread(imagePath)
 print(img.shape)
 
